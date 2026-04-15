@@ -43,6 +43,7 @@ public class MagicLibrary {
 		log.info("Hola soy desde la rama main");
 
 		log.info("Hola soy Gabri en la rama nueva2");
+		log.info("Esto me va a generar conflicto");
 
 
 		log.info("Traza que me piden en el 31");

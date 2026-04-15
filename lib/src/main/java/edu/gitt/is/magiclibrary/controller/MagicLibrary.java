@@ -39,7 +39,7 @@ public class MagicLibrary {
 
 		
 		log.info("Hola soy Gabri ejecutando la apliación");
-
+		log.info("Hola soy desde la rama main");
 		log.info("Traza que me piden en el 31");
 
 		log.info("Arranco la aplicaci�n y creo el controlador para manejar entidades desde la interfaz");

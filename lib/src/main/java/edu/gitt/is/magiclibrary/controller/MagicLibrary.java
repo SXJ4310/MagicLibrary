@@ -44,8 +44,13 @@ public class MagicLibrary {
 
 		log.info("Hola soy Gabri en la rama nueva2");
 		log.info("Esto me va a generar conflicto");
+
 		log.info("conflicto ¿?");
 		log.info("conflicto ¿?1234");
+
+		log.info("Hahahhahahah");
+
+
 
 		log.info("Traza que me piden en el 31");
 

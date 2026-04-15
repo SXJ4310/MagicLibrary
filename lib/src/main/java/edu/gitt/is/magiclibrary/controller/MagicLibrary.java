@@ -39,6 +39,7 @@ public class MagicLibrary {
 
 		
 		log.info("Hola soy Gabri ejecutando la apliación");
+		log.info("Hola soy Gabri en la rama nueva");
 
 		log.info("Traza que me piden en el 31");
 
